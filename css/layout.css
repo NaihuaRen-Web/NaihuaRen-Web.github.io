@@ -3,7 +3,9 @@
     max-width: 1400px;
 }
 
-#archive,#tag,#category {
+#archive,
+#tag,
+#category {
     background: var(--june-card-bg);
     padding: 25px 10px;
 }
@@ -186,3 +188,4 @@
         width: 90px;
     }
 }
+
